@@ -226,7 +226,11 @@ def user_stats(df):
             break
         else:
             print("\nNot a valid entry - please type 'Yes' or 'No'")
-        
+   
+ print("Thank you")
+ print("Thank you")
+ print("Thank you")
+   
 def main():
     while True:
         city, month, day = get_filters()
