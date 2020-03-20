@@ -229,6 +229,7 @@ def user_stats(df):
    
  print("Thank you")
  print("Thank you")
+ print("Thank you")
    
 def main():
     while True:
