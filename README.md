@@ -12,4 +12,4 @@ python.py
 README.md
 
 ### Credits
-Udacity course
+Udacity course + mentor
