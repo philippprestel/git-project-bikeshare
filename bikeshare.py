@@ -228,6 +228,7 @@ def user_stats(df):
             print("\nNot a valid entry - please type 'Yes' or 'No'")
    
  print("Thank you")
+ print("Thank you")
    
 def main():
     while True:
